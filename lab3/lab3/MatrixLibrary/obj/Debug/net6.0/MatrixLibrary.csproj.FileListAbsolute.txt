@@ -1,0 +1,12 @@
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\bin\Debug\net6.0\MatrixLibrary.deps.json
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\bin\Debug\net6.0\MatrixLibrary.dll
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\bin\Debug\net6.0\MatrixLibrary.pdb
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.dll
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\refint\MatrixLibrary.dll
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.pdb
+D:\ООП\Лабораторные работы\lab3\lab3\MatrixLibrary\obj\Debug\net6.0\ref\MatrixLibrary.dll

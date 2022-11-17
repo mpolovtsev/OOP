@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Window", "Window\Window.csproj", "{ADCB26C7-DB1E-4C2A-8E0F-B3B95BDB44AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{CEE6D349-81DC-460B-83B8-DB5CE1FCFA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketLibrary", "TicketLibrary\TicketLibrary.csproj", "{C5AD791F-C9CB-49C5-AA15-D6EC599BC03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCB26C7-DB1E-4C2A-8E0F-B3B95BDB44AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCB26C7-DB1E-4C2A-8E0F-B3B95BDB44AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCB26C7-DB1E-4C2A-8E0F-B3B95BDB44AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCB26C7-DB1E-4C2A-8E0F-B3B95BDB44AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE6D349-81DC-460B-83B8-DB5CE1FCFA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE6D349-81DC-460B-83B8-DB5CE1FCFA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE6D349-81DC-460B-83B8-DB5CE1FCFA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE6D349-81DC-460B-83B8-DB5CE1FCFA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AD791F-C9CB-49C5-AA15-D6EC599BC03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AD791F-C9CB-49C5-AA15-D6EC599BC03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AD791F-C9CB-49C5-AA15-D6EC599BC03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AD791F-C9CB-49C5-AA15-D6EC599BC03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D41B4C45-895B-4D23-A333-4E4C6A32C70B}
+	EndGlobalSection
+EndGlobal

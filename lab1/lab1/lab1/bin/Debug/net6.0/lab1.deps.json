@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab1/1.0.0": {
+        "dependencies": {
+          "SquareLibrary": "1.0.0"
+        },
+        "runtime": {
+          "lab1.dll": {}
+        }
+      },
+      "SquareLibrary/1.0.0": {
+        "runtime": {
+          "SquareLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SquareLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

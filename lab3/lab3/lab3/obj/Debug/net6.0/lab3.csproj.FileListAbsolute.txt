@@ -1,0 +1,48 @@
+D:\ООП\lab3\lab3\bin\Debug\net6.0\lab3.exe
+D:\ООП\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+D:\ООП\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+D:\ООП\lab3\lab3\bin\Debug\net6.0\lab3.dll
+D:\ООП\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.dll
+D:\ООП\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+D:\ООП\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+D:\ООП\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\bin\Debug\net6.0\lab3.exe
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\bin\Debug\net6.0\lab3.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 3\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\bin\Debug\net6.0\lab3.exe
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\bin\Debug\net6.0\lab3.dll
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.dll
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\bin\Debug\net6.0\MatrixLibrary.dll
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\bin\Debug\net6.0\MatrixLibrary.pdb
+D:\ООП\Лабораторные работы\lab3\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CopyComplete

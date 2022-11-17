@@ -1,0 +1,24 @@
+D:\ООП\lab6\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+D:\ООП\lab6\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+D:\ООП\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+D:\ООП\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+D:\ООП\lab6\lab6\bin\Debug\net6.0\lab6.deps.json
+D:\ООП\lab6\lab6\bin\Debug\net6.0\lab6.dll
+D:\ООП\lab6\lab6\bin\Debug\net6.0\lab6.pdb
+D:\ООП\lab6\lab6\obj\Debug\net6.0\lab6.dll
+D:\ООП\lab6\lab6\obj\Debug\net6.0\refint\lab6.dll
+D:\ООП\lab6\lab6\obj\Debug\net6.0\lab6.pdb
+D:\ООП\lab6\lab6\obj\Debug\net6.0\ref\lab6.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\bin\Debug\net6.0\lab6.deps.json
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\bin\Debug\net6.0\lab6.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\bin\Debug\net6.0\lab6.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\lab6.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\refint\lab6.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\lab6.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 6\lab6\lab6\obj\Debug\net6.0\ref\lab6.dll

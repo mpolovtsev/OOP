@@ -1,0 +1,30 @@
+D:\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.exe
+D:\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.deps.json
+D:\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.runtimeconfig.json
+D:\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.dll
+D:\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.pdb
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.csproj.AssemblyReference.cache
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.AssemblyInfoInputs.cache
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.AssemblyInfo.cs
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.csproj.CoreCompileInputs.cache
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.dll
+D:\lab4_1\lab4_1\obj\Debug\net6.0\refint\lab4_1.dll
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.pdb
+D:\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.genruntimeconfig.cache
+D:\lab4_1\lab4_1\obj\Debug\net6.0\ref\lab4_1.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.exe
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.deps.json
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.runtimeconfig.json
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\bin\Debug\net6.0\lab4_1.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\refint\lab4_1.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\lab4_1.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_1\lab4_1\obj\Debug\net6.0\ref\lab4_1.dll

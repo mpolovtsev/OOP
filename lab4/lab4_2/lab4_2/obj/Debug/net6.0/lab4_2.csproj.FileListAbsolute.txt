@@ -1,0 +1,45 @@
+D:\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.exe
+D:\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.deps.json
+D:\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.runtimeconfig.json
+D:\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.dll
+D:\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.pdb
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.csproj.AssemblyReference.cache
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfoInputs.cache
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfo.cs
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.csproj.CoreCompileInputs.cache
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.dll
+D:\lab4_2\lab4_2\obj\Debug\net6.0\refint\lab4_2.dll
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.pdb
+D:\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.genruntimeconfig.cache
+D:\lab4_2\lab4_2\obj\Debug\net6.0\ref\lab4_2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.exe
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.deps.json
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.runtimeconfig.json
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\refint\lab4_2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 4\lab4_2\lab4_2\obj\Debug\net6.0\ref\lab4_2.dll
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.exe
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.deps.json
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.runtimeconfig.json
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.dll
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.pdb
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.dll
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\refint\lab4_2.dll
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.pdb
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\lab4\lab4_2\lab4_2\obj\Debug\net6.0\ref\lab4_2.dll

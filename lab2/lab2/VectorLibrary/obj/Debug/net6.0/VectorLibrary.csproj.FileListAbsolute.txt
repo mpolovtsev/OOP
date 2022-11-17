@@ -1,0 +1,12 @@
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\bin\Debug\net6.0\VectorLibrary.deps.json
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\bin\Debug\net6.0\VectorLibrary.dll
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\bin\Debug\net6.0\VectorLibrary.pdb
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\VectorLibrary.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\VectorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\VectorLibrary.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\VectorLibrary.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\VectorLibrary.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\VectorLibrary.dll
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\refint\VectorLibrary.dll
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\VectorLibrary.pdb
+D:\ООП\Лабораторные работы\lab2\lab2\VectorLibrary\obj\Debug\net6.0\ref\VectorLibrary.dll

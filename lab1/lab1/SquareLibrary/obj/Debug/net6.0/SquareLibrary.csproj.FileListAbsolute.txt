@@ -1,0 +1,12 @@
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\bin\Debug\net6.0\SquareLibrary.deps.json
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\bin\Debug\net6.0\SquareLibrary.dll
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\bin\Debug\net6.0\SquareLibrary.pdb
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\SquareLibrary.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\SquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\SquareLibrary.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\SquareLibrary.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\SquareLibrary.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\SquareLibrary.dll
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\refint\SquareLibrary.dll
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\SquareLibrary.pdb
+D:\ООП\Лабораторные работы\lab1\lab1\SquareLibrary\obj\Debug\net6.0\ref\SquareLibrary.dll

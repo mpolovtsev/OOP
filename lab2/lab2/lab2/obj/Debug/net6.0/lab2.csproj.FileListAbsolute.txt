@@ -1,0 +1,48 @@
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+D:\ООП\lab2\lab2\bin\Debug\net6.0\lab2.exe
+D:\ООП\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+D:\ООП\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+D:\ООП\lab2\lab2\bin\Debug\net6.0\lab2.dll
+D:\ООП\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.dll
+D:\ООП\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+D:\ООП\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+D:\ООП\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\bin\Debug\net6.0\lab2.exe
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\bin\Debug\net6.0\lab2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\Лабораторная работа 2\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\bin\Debug\net6.0\lab2.exe
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\bin\Debug\net6.0\lab2.dll
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\bin\Debug\net6.0\VectorLibrary.dll
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\bin\Debug\net6.0\VectorLibrary.pdb
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CopyComplete
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.dll
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\lab2\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll
