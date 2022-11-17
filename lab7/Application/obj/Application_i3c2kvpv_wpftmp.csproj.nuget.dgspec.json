@@ -1,0 +1,435 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ООП\\Лабораторные работы\\lab7\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "D:\\ООП\\Лабораторные работы\\lab7\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП\\Лабораторные работы\\lab7\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Лабораторные работы\\lab7\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\ООП\\Лабораторные работы\\lab7\\FIveRoomFlat\\FiveRoomFlat.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\FIveRoomFlat\\FiveRoomFlat.csproj"
+              },
+              "D:\\ООП\\Лабораторные работы\\lab7\\FourRoomFlat\\FourRoomFlat.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\FourRoomFlat\\FourRoomFlat.csproj"
+              },
+              "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj"
+              },
+              "D:\\ООП\\Лабораторные работы\\lab7\\OneRoomFlat\\OneRoomFlat.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\OneRoomFlat\\OneRoomFlat.csproj"
+              },
+              "D:\\ООП\\Лабораторные работы\\lab7\\ThreeRoomFlat\\ThreeRoomFlat.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\ThreeRoomFlat\\ThreeRoomFlat.csproj"
+              },
+              "D:\\ООП\\Лабораторные работы\\lab7\\TwoRoomFlat\\TwoRoomFlat.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\TwoRoomFlat\\TwoRoomFlat.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП\\Лабораторные работы\\lab7\\FIveRoomFlat\\FiveRoomFlat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП\\Лабораторные работы\\lab7\\FIveRoomFlat\\FiveRoomFlat.csproj",
+        "projectName": "FiveRoomFlat",
+        "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\FIveRoomFlat\\FiveRoomFlat.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Лабораторные работы\\lab7\\FIveRoomFlat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП\\Лабораторные работы\\lab7\\FourRoomFlat\\FourRoomFlat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП\\Лабораторные работы\\lab7\\FourRoomFlat\\FourRoomFlat.csproj",
+        "projectName": "FourRoomFlat",
+        "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\FourRoomFlat\\FourRoomFlat.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Лабораторные работы\\lab7\\FourRoomFlat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj",
+        "projectName": "lab7",
+        "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП\\Лабораторные работы\\lab7\\OneRoomFlat\\OneRoomFlat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП\\Лабораторные работы\\lab7\\OneRoomFlat\\OneRoomFlat.csproj",
+        "projectName": "OneRoomFlat",
+        "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\OneRoomFlat\\OneRoomFlat.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Лабораторные работы\\lab7\\OneRoomFlat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП\\Лабораторные работы\\lab7\\ThreeRoomFlat\\ThreeRoomFlat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП\\Лабораторные работы\\lab7\\ThreeRoomFlat\\ThreeRoomFlat.csproj",
+        "projectName": "ThreeRoomFlat",
+        "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\ThreeRoomFlat\\ThreeRoomFlat.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Лабораторные работы\\lab7\\ThreeRoomFlat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП\\Лабораторные работы\\lab7\\TwoRoomFlat\\TwoRoomFlat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП\\Лабораторные работы\\lab7\\TwoRoomFlat\\TwoRoomFlat.csproj",
+        "projectName": "TwoRoomFlat",
+        "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\TwoRoomFlat\\TwoRoomFlat.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП\\Лабораторные работы\\lab7\\TwoRoomFlat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj": {
+                "projectPath": "D:\\ООП\\Лабораторные работы\\lab7\\lab7\\lab7.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

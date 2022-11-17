@@ -1,0 +1,72 @@
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\App.g.cs
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application_MarkupCompile.cache
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application_MarkupCompile.lref
+D:\ООП\Лабораторные работы\lab7\Application\bin\Debug\net6.0-windows\Application.exe
+D:\ООП\Лабораторные работы\lab7\Application\bin\Debug\net6.0-windows\Application.deps.json
+D:\ООП\Лабораторные работы\lab7\Application\bin\Debug\net6.0-windows\Application.runtimeconfig.json
+D:\ООП\Лабораторные работы\lab7\Application\bin\Debug\net6.0-windows\Application.dll
+D:\ООП\Лабораторные работы\lab7\Application\bin\Debug\net6.0-windows\Application.pdb
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.g.resources
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.CopyComplete
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.dll
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\refint\Application.dll
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.pdb
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\Application.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\lab7\Application\obj\Debug\net6.0-windows\ref\Application.dll
+D:\ООП\Лабораторные работы\lab7\lab7\Application\bin\Debug\net6.0-windows\Application.exe
+D:\ООП\Лабораторные работы\lab7\lab7\Application\bin\Debug\net6.0-windows\Application.deps.json
+D:\ООП\Лабораторные работы\lab7\lab7\Application\bin\Debug\net6.0-windows\Application.runtimeconfig.json
+D:\ООП\Лабораторные работы\lab7\lab7\Application\bin\Debug\net6.0-windows\Application.dll
+D:\ООП\Лабораторные работы\lab7\lab7\Application\bin\Debug\net6.0-windows\Application.pdb
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\App.g.cs
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application_MarkupCompile.cache
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application_MarkupCompile.lref
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.g.resources
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.AssemblyInfoInputs.cache
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.AssemblyInfo.cs
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.CopyComplete
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.dll
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\refint\Application.dll
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.pdb
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\Application.genruntimeconfig.cache
+D:\ООП\Лабораторные работы\lab7\lab7\Application\obj\Debug\net6.0-windows\ref\Application.dll
+D:\ООП\Лабораторные работы\lab7\lab7\Application\bin\Debug\net6.0-windows\FlatsLibrary.dll
+D:\ООП\Лабораторные работы\lab7\lab7\Application\bin\Debug\net6.0-windows\FlatsLibrary.pdb
+D:\ООП\lab7\Application\bin\Debug\net6.0-windows\Application.exe
+D:\ООП\lab7\Application\bin\Debug\net6.0-windows\Application.deps.json
+D:\ООП\lab7\Application\bin\Debug\net6.0-windows\Application.runtimeconfig.json
+D:\ООП\lab7\Application\bin\Debug\net6.0-windows\Application.dll
+D:\ООП\lab7\Application\bin\Debug\net6.0-windows\Application.pdb
+D:\ООП\lab7\Application\bin\Debug\net6.0-windows\FlatsLibrary.dll
+D:\ООП\lab7\Application\bin\Debug\net6.0-windows\FlatsLibrary.pdb
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.AssemblyReference.cache
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\App.g.cs
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application_MarkupCompile.cache
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application_MarkupCompile.lref
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.g.resources
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.AssemblyInfoInputs.cache
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.AssemblyInfo.cs
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.CoreCompileInputs.cache
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.csproj.CopyComplete
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.dll
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\refint\Application.dll
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.pdb
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\Application.genruntimeconfig.cache
+D:\ООП\lab7\Application\obj\Debug\net6.0-windows\ref\Application.dll
+D:\ООП\Лабораторные работы\lab7\Application\bin\Debug\net6.0-windows\FlatsLibrary.dll
+D:\ООП\Лабораторные работы\lab7\Application\bin\Debug\net6.0-windows\FlatsLibrary.pdb
