@@ -1,0 +1,42 @@
+D:\lab9\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\lab9\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+D:\lab9\App\obj\Debug\MainWindow.g.cs
+D:\lab9\App\obj\Debug\App.g.cs
+D:\lab9\App\obj\Debug\App_MarkupCompile.cache
+D:\lab9\App\obj\Debug\App_MarkupCompile.lref
+D:\lab9\App\bin\Debug\App.exe.config
+D:\lab9\App\bin\Debug\App.exe
+D:\lab9\App\bin\Debug\App.pdb
+D:\lab9\App\bin\Debug\VectorLibrary.dll
+D:\lab9\App\bin\Debug\VectorLibrary.pdb
+D:\lab9\App\obj\Debug\MainWindow.baml
+D:\lab9\App\obj\Debug\App.g.resources
+D:\lab9\App\obj\Debug\App.Properties.Resources.resources
+D:\lab9\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\lab9\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\lab9\App\obj\Debug\App.csproj.CopyComplete
+D:\lab9\App\obj\Debug\App.exe
+D:\lab9\App\obj\Debug\App.pdb
+D:\lab9\App\bin\Debug\ExeptionsLibrary.dll
+D:\lab9\App\bin\Debug\ExeptionsLibrary.pdb
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\MainWindow.g.cs
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.g.cs
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App_MarkupCompile.cache
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App_MarkupCompile.lref
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.exe
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.pdb
+D:\ООП\Лабораторные работы\lab9\App\bin\Debug\App.exe.config
+D:\ООП\Лабораторные работы\lab9\App\bin\Debug\App.exe
+D:\ООП\Лабораторные работы\lab9\App\bin\Debug\App.pdb
+D:\ООП\Лабораторные работы\lab9\App\bin\Debug\ExeptionsLibrary.dll
+D:\ООП\Лабораторные работы\lab9\App\bin\Debug\VectorLibrary.dll
+D:\ООП\Лабораторные работы\lab9\App\bin\Debug\ExeptionsLibrary.pdb
+D:\ООП\Лабораторные работы\lab9\App\bin\Debug\VectorLibrary.pdb
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\MainWindow.baml
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.g.resources
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.Properties.Resources.resources
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab9\App\obj\Debug\App.csproj.CopyComplete

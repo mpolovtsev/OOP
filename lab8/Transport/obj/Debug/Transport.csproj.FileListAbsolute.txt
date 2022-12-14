@@ -1,0 +1,12 @@
+D:\lab8\Transport\bin\Debug\Transport.dll
+D:\lab8\Transport\bin\Debug\Transport.pdb
+D:\lab8\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+D:\lab8\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+D:\lab8\Transport\obj\Debug\Transport.dll
+D:\lab8\Transport\obj\Debug\Transport.pdb
+D:\ООП\Лабораторные работы\lab8\Transport\bin\Debug\Transport.dll
+D:\ООП\Лабораторные работы\lab8\Transport\bin\Debug\Transport.pdb
+D:\ООП\Лабораторные работы\lab8\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab8\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab8\Transport\obj\Debug\Transport.dll
+D:\ООП\Лабораторные работы\lab8\Transport\obj\Debug\Transport.pdb

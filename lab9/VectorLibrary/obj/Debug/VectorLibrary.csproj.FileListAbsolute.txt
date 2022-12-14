@@ -1,0 +1,18 @@
+D:\lab9\VectorLibrary\bin\Debug\VectorLibrary.dll
+D:\lab9\VectorLibrary\bin\Debug\VectorLibrary.pdb
+D:\lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.AssemblyReference.cache
+D:\lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.CoreCompileInputs.cache
+D:\lab9\VectorLibrary\obj\Debug\VectorLibrary.dll
+D:\lab9\VectorLibrary\obj\Debug\VectorLibrary.pdb
+D:\lab9\VectorLibrary\bin\Debug\ExeptionsLibrary.dll
+D:\lab9\VectorLibrary\bin\Debug\ExeptionsLibrary.pdb
+D:\lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.CopyComplete
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\bin\Debug\VectorLibrary.dll
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\bin\Debug\VectorLibrary.pdb
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\bin\Debug\ExeptionsLibrary.dll
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\bin\Debug\ExeptionsLibrary.pdb
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.AssemblyReference.cache
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.CoreCompileInputs.cache
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.CopyComplete
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\obj\Debug\VectorLibrary.dll
+D:\ООП\Лабораторные работы\lab9\VectorLibrary\obj\Debug\VectorLibrary.pdb
